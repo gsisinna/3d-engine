@@ -1,0 +1,4 @@
+cffi>=1.15.0
+pybullet>=3.0.8
+pyopengl>=3.1.6
+glfw>=2.5.0

@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+
+# IDEs
+.idea/
+.vscode/
+
+# Operating System files
+.DS_Store
+Thumbs.db
